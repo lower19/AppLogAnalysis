@@ -1,0 +1,7 @@
+hive\FormatTimeUDF.class
+hive\MonthBeginUDF.class
+hive\DayBeginUDF.class
+common\BasicLog.class
+hive\DateUtil.class
+common\StartupReportLogs.class
+hive\WeekBeginUDF.class
